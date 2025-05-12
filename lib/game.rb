@@ -71,6 +71,3 @@ class Game
     puts "#{@board[6]} | #{@board[7]} | #{@board[8]}"
   end
 end
-
-game = Game.new
-game.start
